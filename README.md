@@ -1,7 +1,9 @@
 # Algoritmos de Ordenação
 - Universidade São Francisco
 - Matéria: Paradigmas de Programação e Análise de Algoritmos
+  
 Repositório para armazenar o projeto de aplicação da análise de eficiência e complexidade dos algoritmos de ordenação da matéria Paradigmas de Programação e Análise de Algoritmos.
+
 ## Grupo:
 - Anna Carolina Poscai Beluco - RA: 202211484
 - Felipe Dias Pigiani - RA: 202203396
